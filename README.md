@@ -1,6 +1,6 @@
 <strong>Monte Carlo Simulation Process : </strong>
 
-1. Consider n molecules and assign them coordinates.
+1. Consider n molecules and assign them coordinates
 <br>
 2.Calculate initial energy of the system using Leonard-Jones Potential function
 <br>
@@ -9,8 +9,6 @@
 4.Calculate energy of the new configuration 
 <br>
 5.Checking conditions for accepting new configuration
-
-<br>
 <br>
 <br>
 Graph denoting as the acceptance of the move for the molecules is increasing the energy of the graph goes down
