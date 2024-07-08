@@ -15,4 +15,4 @@
 Graph denoting as the acceptance of the move for the molecules is increasing the energy of the graph goes down
 <br>
 <br>
-![graph](https://github.com/bhalotia05/molecular-simulation-cpp/assets/145834222/7e9f2d90-e326-47ab-a3c9-60b98f555505)
+![Graph](https://github.com/bhalotia05/molecular-simulation-cpp/assets/145834222/abcbe612-486d-4e2d-b3bc-981421efc201)
