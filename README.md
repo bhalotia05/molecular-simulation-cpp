@@ -1,4 +1,6 @@
 <strong>Monte Carlo Simulation Process : </strong>
+<br>
+<br>
 1.Consider n molecules and assign them coordinates
 <br>
 2.Calculate initial energy of the system using Leonard-Jones Potential function
